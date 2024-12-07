@@ -1,0 +1,19 @@
+{
+  "workspace:new-tab": [],
+  "templater-obsidian:create-Templates/programming note.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "templater-obsidian:Templates/programming note.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
+}
