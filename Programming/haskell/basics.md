@@ -9,7 +9,7 @@ instructor: Philip Hagenlocher
 ---
 ## Introduction
 
-intro here
+some changes to check git
 
 
 ---
